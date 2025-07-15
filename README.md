@@ -1,76 +1,62 @@
 <!-- Hi there 👋 -->
+# 👋 Heyo, I'm Plerion!
 
-<!--
-**PlerionPlorion/PlerionPlorion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### I'm studying CS at UC Santa Cruz!
+<p>My main goal is to obtain new skills, even though I've mostly used Java, you'll see a lot more languages and projects sprinkled in!</p>
 
 ---
 
 <details open>
+<summary><h3>Things I've used</h3></summary>
+
+![Static Badge](https://img.shields.io/badge/Java-b5c9d7?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz48IS0tIFVwbG9hZGVkIHRvOiBTVkcgUmVwbywgd3d3LnN2Z3JlcG8uY29tLCBHZW5lcmF0b3I6IFNWRyBSZXBvIE1peGVyIFRvb2xzIC0tPgo8c3ZnIGZpbGw9IiMwMDAwMDAiIHdpZHRoPSI4MDBweCIgaGVpZ2h0PSI4MDBweCIgdmlld0JveD0iMCAwIDI0IDI0IiByb2xlPSJpbWciIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI%2BPHRpdGxlPkphdmEgaWNvbjwvdGl0bGU%2BPHBhdGggZD0iTTguODUxIDE4LjU2cy0uOTE3LjUzNC42NTMuNzE0YzEuOTAyLjIxOCAyLjg3NC4xODcgNC45NjktLjIxMSAwIDAgLjU1Mi4zNDYgMS4zMjEuNjQ2LTQuNjk5IDIuMDEzLTEwLjYzMy0uMTE4LTYuOTQzLTEuMTQ5TTguMjc2IDE1LjkzM3MtMS4wMjguNzYxLjU0Mi45MjRjMi4wMzIuMjA5IDMuNjM2LjIyNyA2LjQxMy0uMzA4IDAgMCAuMzg0LjM4OS45ODcuNjAyLTUuNjc5IDEuNjYxLTEyLjAwNy4xMy03Ljk0Mi0xLjIxOE0xMy4xMTYgMTEuNDc1YzEuMTU4IDEuMzMzLS4zMDQgMi41MzMtLjMwNCAyLjUzM3MyLjkzOS0xLjUxOCAxLjU4OS0zLjQxOGMtMS4yNjEtMS43NzItMi4yMjgtMi42NTIgMy4wMDctNS42ODggMC0uMDAxLTguMjE2IDIuMDUxLTQuMjkyIDYuNTczTTE5LjMzIDIwLjUwNHMuNjc5LjU1OS0uNzQ3Ljk5MWMtMi43MTIuODIyLTExLjI4OCAxLjA2OS0xMy42NjkuMDMzLS44NTYtLjM3My43NS0uODkgMS4yNTQtLjk5OC41MjctLjExNC44MjgtLjA5My44MjgtLjA5My0uOTUzLS42NzEtNi4xNTYgMS4zMTctMi42NDMgMS44ODcgOS41OCAxLjU1MyAxNy40NjItLjcgMTQuOTc3LTEuODJNOS4yOTIgMTMuMjFzLTQuMzYyIDEuMDM2LTEuNTQ0IDEuNDEyYzEuMTg5LjE1OSAzLjU2MS4xMjMgNS43Ny0uMDYyIDEuODA2LS4xNTIgMy42MTgtLjQ3NyAzLjYxOC0uNDc3cy0uNjM3LjI3Mi0xLjA5OC41ODdjLTQuNDI5IDEuMTY1LTEyLjk4Ni42MjMtMTAuNTIyLS41NjggMi4wODItMS4wMDYgMy43NzYtLjg5MiAzLjc3Ni0uODkyTTE3LjExNiAxNy41ODRjNC41MDMtMi4zNCAyLjQyMS00LjU4OS45NjgtNC4yODUtLjM1NS4wNzQtLjUxNS4xMzgtLjUxNS4xMzhzLjEzMi0uMjA3LjM4NS0uMjk3YzIuODc1LTEuMDExIDUuMDg2IDIuOTgxLS45MjggNC41NjIgMC0uMDAxLjA3LS4wNjIuMDktLjExOE0xNC40MDEgMHMyLjQ5NCAyLjQ5NC0yLjM2NSA2LjMzYy0zLjg5NiAzLjA3Ny0uODg4IDQuODMyLS4wMDEgNi44MzYtMi4yNzQtMi4wNTMtMy45NDMtMy44NTgtMi44MjQtNS41MzkgMS42NDQtMi40NjkgNi4xOTctMy42NjUgNS4xOS03LjYyN005LjczNCAyMy45MjRjNC4zMjIuMjc3IDEwLjk1OS0uMTUzIDExLjExNi0yLjE5OCAwIDAtLjMwMi43NzUtMy41NzIgMS4zOTEtMy42ODguNjk0LTguMjM5LjYxMy0xMC45MzcuMTY4IDAtLjAwMS41NTMuNDU3IDMuMzkzLjYzOSIvPjwvc3ZnPg%3D%3D&logoColor=white&color=b5c9d7)
+![Static Badge](https://img.shields.io/badge/lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white&color=2C2D72)
+![Static Badge](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white&color=3776AB)
+![Static Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&color=E34F26)
+![Static Badge](https://img.shields.io/badge/JavaScript-f7df1c?style=for-the-badge&logo=javascript&logoColor=black&color=f7df1c)
+![Static Badge](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white&color=FF3E00)
+![Static Badge](https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=CSS&logoColor=white&color=663399)
+![Static Badge](https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white&color=06B6D4)
+![Static Badge](https://img.shields.io/badge/NodeJS-7cb602?style=for-the-badge&logo=node.js&logoColor=white&color=7cb602)
+![Static Badge](https://img.shields.io/badge/vite-646CFF?style=for-the-badge&logo=vite&logoColor=white&color=646CFF)
+![Static Badge](https://img.shields.io/badge/electron-47848F?style=for-the-badge&logo=electron&logoColor=white&color=47848F)
+![Static Badge](https://img.shields.io/badge/opencv-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white&color=5C3EE8)
+
+![Static Badge](https://img.shields.io/badge/Photoshop-001d34?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iaXNvLTg4NTktMSI%2FPg0KPCEtLSBVcGxvYWRlZCB0bzogU1ZHIFJlcG8sIHd3dy5zdmdyZXBvLmNvbSwgR2VuZXJhdG9yOiBTVkcgUmVwbyBNaXhlciBUb29scyAtLT4NCjxzdmcgZmlsbD0iIzAwMDAwMCIgaGVpZ2h0PSI4MDBweCIgd2lkdGg9IjgwMHB4IiB2ZXJzaW9uPSIxLjEiIGlkPSJMYXllcl8xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiANCgkgdmlld0JveD0iMCAwIDQ1NSA0NTUiIHhtbDpzcGFjZT0icHJlc2VydmUiPg0KPGc%2BDQoJPHBhdGggc3R5bGU9ImZpbGwtcnVsZTpldmVub2RkO2NsaXAtcnVsZTpldmVub2RkOyIgZD0iTTE0OS4zMjksMTQ0LjgwMmMtMTEuMDY5LDAtMTguNywxLjEwNS0yMi41NDcsMi4yMDl2NzEuNjc0DQoJCWM0LjY5OCwxLjAxLDEwLjM3NCwxLjM1NywxOC4yNTcsMS4zNTdjMjkuMTY4LDAsNDcuMy0xNC43NTgsNDcuMy0zOS42NjlDMTkyLjIxNCwxNTguMDc5LDE3Ni43OTQsMTQ0LjgwMiwxNDkuMzI5LDE0NC44MDJ6Ii8%2BDQoJPHBhdGggc3R5bGU9ImZpbGwtcnVsZTpldmVub2RkO2NsaXAtcnVsZTpldmVub2RkOyIgZD0iTTAsMHY0NTVoNDU1VjBIMHogTTIyNC4yMTksMjM2LjY5Mw0KCQljLTE4LjYwNCwxNy41OTUtNDYuNDE3LDI1LjQ3OS03OC44MzQsMjUuNDc5Yy03LjEyNSwwLTEzLjY1NC0wLjI1Mi0xOC42OTgtMC45Nzh2ODYuODQ0SDcyLjM1NFYxMDguNDQ1DQoJCWMxNi44NzItMi44MzcsNDAuNjQ3LTUuMDQ2LDc0LjEzNi01LjA0NmMzMy44OTksMCw1OC4wMjEsNi40MDEsNzQuMTY3LDE5LjQ1NmMxNS42NCwxMi4yMDQsMjUuOTgzLDMyLjQxNywyNS45ODMsNTYuMTk0DQoJCUMyNDYuNjQsMjAyLjc5NCwyMzguNzU4LDIyMy4wMDcsMjI0LjIxOSwyMzYuNjkzeiBNMzA2LjI3LDM1MS42MDFjLTIzLjA1LDAtNDMuNjA5LTUuMDQ3LTU2LjkxNi0xMi4yOTlsOS43NDMtMzkuMTk2DQoJCWMxMC4wOTEsNi4wNTUsMzAuOTA0LDEzLjMwNyw0Ny4xNzMsMTMuMzA3YzE2LjQ5MiwwLDIzLjM5OC01Ljc3LDIzLjM5OC0xNC43ODljMC04Ljk4OC01LjQyNC0xMy4yNzYtMjUuODU2LTIwLjE4Mg0KCQljLTM2LjQ4NC0xMi4yMDItNTAuNTE4LTMyLjAzOC01MC4xMzktNTIuOTc2YzAtMzIuNzYzLDI4LjA5Ni01Ny42NDQsNzEuNjc2LTU3LjY0NGMyMC41OTIsMCwzOC45NDQsNC42NjcsNDkuNzYsMTAuMDkxDQoJCWwtOS43MTQsMzcuODM5Yy04LjAwOS00LjMxOS0yMy4wNS0xMC4xMjItMzguMTg1LTEwLjEyMmMtMTMuMzA3LDAtMjAuODEzLDUuNDI0LTIwLjgxMywxNC40MTJjMCw4LjI2MSw2Ljc4MSwxMi41ODEsMjguMzE4LDIwLjIxMw0KCQljMzMuNTIsMTEuNDQ2LDQ3LjU1MiwyOC40NDMsNDcuOTMyLDU0LjMzM0MzODIuNjQ2LDMyNy40NzcsMzU2LjYzLDM1MS42MDEsMzA2LjI3LDM1MS42MDF6Ii8%2BDQo8L2c%2BDQo8L3N2Zz4%3D&logoColor=001d34&color=2fa3f7)
+![Static Badge](https://img.shields.io/badge/Illustrator-ff9a00?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iaXNvLTg4NTktMSI%2FPg0KPCEtLSBVcGxvYWRlZCB0bzogU1ZHIFJlcG8sIHd3dy5zdmdyZXBvLmNvbSwgR2VuZXJhdG9yOiBTVkcgUmVwbyBNaXhlciBUb29scyAtLT4NCjxzdmcgZmlsbD0iIzAwMDAwMCIgaGVpZ2h0PSI4MDBweCIgd2lkdGg9IjgwMHB4IiB2ZXJzaW9uPSIxLjEiIGlkPSJMYXllcl8xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiANCgkgdmlld0JveD0iMCAwIDQ1NSA0NTUiIHhtbDpzcGFjZT0icHJlc2VydmUiPg0KPGc%2BDQoJPHBhdGggc3R5bGU9ImZpbGwtcnVsZTpldmVub2RkO2NsaXAtcnVsZTpldmVub2RkOyIgZD0iTTE4Ni4xOTksMTUzLjU0NmMtMy41NDIsMTQuMjY0LTI1LjA5Miw5Ni41NDUtMjUuMDkyLDk2LjU0NWg1Mi43NQ0KCQljMCwwLTIzLjQ2MS04Mi4yODEtMjYuOTY2LTk2LjU0NUgxODYuMTk5eiIvPg0KCTxwYXRoIHN0eWxlPSJmaWxsLXJ1bGU6ZXZlbm9kZDtjbGlwLXJ1bGU6ZXZlbm9kZDsiIGQ9Ik0wLDB2NDU1aDQ1NVYwSDB6IE0yNDAuMDIzLDM1MS42MDFsLTE4LjQyOC02MS4xMTVoLTY4LjE5MmwtMTcuMDc0LDYxLjExNQ0KCQlIODAuNDU1bDcyLjk0OS0yMzguMzEyaDcwLjYyMWw3My44ODUsMjM4LjMxMkgyNDAuMDIzeiBNMzcyLjc3NCwzNTEuNjAxSDMxOC45NVYxNzguNzc1aDUzLjgyNFYzNTEuNjAxeiBNMzQ1LjUzMywxNTcuNTAzDQoJCWMtMTYuOTM1LDAtMjguMzE3LTEyLjA3OC0yNy45MzYtMjYuODZjLTAuMzgxLTE1LjU4MywxMS4wMDItMjcuMjQ0LDI4LjM1My0yNy4yNDRjMTcuMzUyLDAsMjguMTgsMTEuNjYsMjguNTk1LDI3LjI0NA0KCQlDMzc0LjU0NSwxNDUuNDI1LDM2My4zMDIsMTU3LjUwMywzNDUuNTMzLDE1Ny41MDN6Ii8%2BDQo8L2c%2BDQo8L3N2Zz4%3D&logoColor=black&color=ff9a00)
+![Static Badge](https://img.shields.io/badge/Lightroom-001e36?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz48IS0tIFVwbG9hZGVkIHRvOiBTVkcgUmVwbywgd3d3LnN2Z3JlcG8uY29tLCBHZW5lcmF0b3I6IFNWRyBSZXBvIE1peGVyIFRvb2xzIC0tPgo8c3ZnIGZpbGw9IiMwMDAwMDAiIHdpZHRoPSI4MDBweCIgaGVpZ2h0PSI4MDBweCIgdmlld0JveD0iMCAwIDE0IDE0IiByb2xlPSJpbWciIGZvY3VzYWJsZT0iZmFsc2UiIGFyaWEtaGlkZGVuPSJ0cnVlIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGQ9Im0gMS4wMDAxMjUsMSAwLDEyIDExLjk5OTc1LDAgMCwtMTIgLTExLjk5OTc1LDAgeiBtIDYuNTk1MjUsOC40OTQ3NSAtMy4zOTk3NSwwIDAsLTUuNzI4NSAxLjA0NTUsMCAwLDQuODUzIDIuMzU0MjUsMCAwLDAuODc1NSB6IG0gMi45MTU1LC0zLjIyMTI1IGMgLTAuMDg1LC0wLjAxNyAtMC4xNzg3NSwtMC4wMzQgLTAuMzA2MjUsLTAuMDM0IC0wLjUwMTUsMCAtMC44NDEyNSwwLjMyMyAtMC45MzQ1LDAuNzkwMjUgLTAuMDE3LDAuMDkzNSAtMC4wMzQyNSwwLjIwNCAtMC4wMzQyNSwwLjMyMyBsIDAsMi4xNDE3NSAtMS4wNDU1LDAgMCwtMi44MDQ1IGMgMCwtMC41NjEgLTAuMDA4MjUsLTAuOTYwNSAtMC4wMzQyNSwtMS4zMzQyNSBsIDAuOTA5NzUsMCAwLjAzNDI1LDAuNzkwNSAwLjAzMzc1LDAgYyAwLjIwNCwtMC41ODY1IDAuNjg4NSwtMC44ODQgMS4xMzAyNSwtMC44ODQgMC4xMDIsMCAwLjE2MTUsMC4wMDg1IDAuMjQ2NSwwLjAyNTUgbCAwLDAuOTg1NzUgeiIvPjwvc3ZnPg%3D%3D&logoColor=001d34&color=2fa3f7)
+![Static Badge](https://img.shields.io/badge/Docker-1d91e6?style=for-the-badge&logo=Docker&logoColor=white&color=1d91e6)
+![Static Badge](https://img.shields.io/badge/npm-c33536?style=for-the-badge&logo=npm&logoColor=white&color=c33536)
+![Static Badge](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=white&color=F7B93E)
+![Static Badge](https://img.shields.io/badge/VSCode-1da9f2?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz48IS0tIFVwbG9hZGVkIHRvOiBTVkcgUmVwbywgd3d3LnN2Z3JlcG8uY29tLCBHZW5lcmF0b3I6IFNWRyBSZXBvIE1peGVyIFRvb2xzIC0tPg0KPHN2ZyB3aWR0aD0iODAwcHgiIGhlaWdodD0iODAwcHgiIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4NCiAgPHRpdGxlPm1pY3Jvc29mdF92aXN1YWxfc3R1ZGlvX2NvZGU8L3RpdGxlPg0KICA8cmVjdCB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIGZpbGw9Im5vbmUiLz4NCiAgPHBhdGggZD0iTTMuMjksNy43N2wxLjEzLS4zOUw3LjE5LDkuNDcsMTEuOCw0Ljg4LDE0LjUsNi4xbDAsOC44Ni0yLjc2LDEuMjEtNC42LTQuNTVMNC40MiwxMy43MWwtMS4xMy0uMzgsMi43Ny0yLjc2TDMuMjksNy43N201LjM0LDIuNzksMy4xNCwyLjMzVjguMTlMOC42MywxMC41Nk0xNywxOS4xN1YyTDIyLDQuMVYxOS45TDE2LjkxLDIyLDIsMTYuOTJaIi8%2BDQo8L3N2Zz4%3D&logoColor=white&color=1da9f2)
+![Static Badge](https://img.shields.io/badge/gitbash-8D5A9E?style=for-the-badge&logo=gitforwindows&logoColor=white&color=8D5A9E)
+![Static Badge](https://img.shields.io/badge/virtualbox-2F61B4?style=for-the-badge&logo=virtualbox&logoColor=white&color=2F61B4)
+![Static Badge](https://img.shields.io/badge/androidstudio-2F61B4?style=for-the-badge&logo=androidstudio&logoColor=black&color=3DDC84)
+![Static Badge](https://img.shields.io/badge/blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white&color=E87D0D)
+</details>
+<details open>
 <summary><h2>🔥 Stats</h2></summary>
 <p align="center">
   
-  <!-- Github Stats -->
-  <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only" target="_blank" rel="noopener noreferrer">
-    <img src="https://github-readme-stats.vercel.app/api?username=plerionplorion&show_icons=true&theme=tokyonight&border_color=DD2BC7" 
-         width="49%" alt="My GitHub Stats were once here..." />
-  </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only" target="_blank" rel="noopener noreferrer">
-    <img src="https://github-readme-stats.vercel.app/api?username=plerionplorion&show_icons=true&theme=buefy&border_color=DD2BC7" 
-         width="49%" alt="My GitHub Stats were once here..." />
-  </a>
-  <!-- Github Streak -->
-  <a href="https://git.io/streak-stats#gh-dark-mode-only" target="_blank" rel="noopener noreferrer">
-    <img src="https://streak-stats.demolab.com?user=plerionplorion&theme=tokyonight&mode=daily&border=DD2BC7" 
-         width="49%" alt="My GitHub Streak was once here..." />
-  </a>
-    <a href="https://git.io/streak-stats#gh-light-mode-only" target="_blank" rel="noopener noreferrer">
-    <img src="https://streak-stats.demolab.com?user=plerionplorion&theme=buefy&mode=daily&border=DD2BC7" 
-         width="49%" alt="My GitHub Streak was once here..." />
-  </a>
-  
-  <!-- Most Used Langs -->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PlerionPlorion&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true)](https://git.io/streak-stats)
 
-  <br>
-  <a href="https://github.com/anuraghazra/github-readme-stats" taret="_blank" rel="noopener noreferrer">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=plerionplorion&layout=donut&theme=tokyonight&border_color=DD2BC7" 
-         width="33%" alt="Favorite Languages" />
-  </a>
-  <br>
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=PlerionPlorion&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PlerionPlorion&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
   
   <!--Achievements-->
   <a href="https://github.com/ryo-ma/github-profile-trophy#gh-dark-mode-only">
     <img src="https://github-profile-trophy.vercel.app/?username=plerionplorion&theme=tokyonight&column=-1&title=Commits,Repositories,Issues,PullRequest,Followers,Stars&no-frame=true&margin-w=5" 
-         alt="GitHub achievement showcase was one here..." />
+         alt="GitHub achievement showcase was once here..." />
   </a>
+  
   <a href="https://github.com/ryo-ma/github-profile-trophy#gh-light-mode-only">
     <img src="https://github-profile-trophy.vercel.app/?username=plerionplorion&theme=flat&column=-1&title=Commits,Repositories,Issues,PullRequest,Followers,Stars&no-frame=true&margin-w=5" 
-         alt="GitHub achievement showcase was one here..." />
+         alt="GitHub achievement showcase was once here..." />
   </a>
-  
-  <!-- Commit Snake! -->
-<!--  
-  <a href="https://raw.githubusercontent.com/galexy727/galexy727/media/github-contribution-grid-snake.svg#gh-dark-mode-only" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/galexy727/galexy727/media/github-contribution-grid-snake-dark.svg" 
-       alt"Check out my commit history!" />
-  </a>
-  
-  <a href="https://raw.githubusercontent.com/galexy727/galexy727/media/github-contribution-grid-snake.svg#gh-light-mode-only" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/galexy727/galexy727/media/github-contribution-grid-snake.svg" 
-         alt"Check out my commit history!" />
-  </a> -->
 </p>
 </details>
+
+![](https://komarev.com/ghpvc/?username=PlerionPlorion&color=blueviolet&style=for-the-badge)
 
 ---
