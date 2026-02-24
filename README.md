@@ -45,7 +45,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PlerionPlorion&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e&layout=donut)](https://github.com/anuraghazra/github-readme-stats)--!>
   
   <!--Achievements-->
-  <a href="https://github.com/ryo-ma/github-profile-trophy#gh-dark-mode-only">
+ <!-- <a href="https://github.com/ryo-ma/github-profile-trophy#gh-dark-mode-only">
     <img src="https://github-profile-trophy.vercel.app/?username=plerionplorion&theme=tokyonight&column=-1&title=Commits,Repositories,Issues,PullRequest,Followers,Stars&no-frame=true&margin-w=5" 
          alt="GitHub achievement showcase was once here..." />
   </a>
@@ -57,6 +57,6 @@
 </p>
 </details>
 
-![](https://komarev.com/ghpvc/?username=PlerionPlorion&color=blueviolet&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=PlerionPlorion&color=blueviolet&style=for-the-badge)--!>
 
 ---
