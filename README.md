@@ -38,11 +38,11 @@
 <summary><h2>🔥 Stats</h2></summary>
 <p align="center">
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PlerionPlorion&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true)](https://git.io/streak-stats)
+<!--[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PlerionPlorion&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true)](https://git.io/streak-stats)
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=PlerionPlorion&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PlerionPlorion&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PlerionPlorion&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e&layout=donut)](https://github.com/anuraghazra/github-readme-stats)--!>
   
   <!--Achievements-->
   <a href="https://github.com/ryo-ma/github-profile-trophy#gh-dark-mode-only">
