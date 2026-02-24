@@ -34,8 +34,8 @@
 ![Static Badge](https://img.shields.io/badge/androidstudio-2F61B4?style=for-the-badge&logo=androidstudio&logoColor=black&color=3DDC84)
 ![Static Badge](https://img.shields.io/badge/blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white&color=E87D0D)
 </details>
-<details open>
-<summary><h2>🔥 Stats</h2></summary>
+<!--<details open>
+<!--<summary><h2>🔥 Stats</h2></summary>
 <p align="center">
   
 <!--[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PlerionPlorion&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true)](https://git.io/streak-stats)
@@ -57,6 +57,5 @@
 </p>
 </details>
 
-![](https://komarev.com/ghpvc/?username=PlerionPlorion&color=blueviolet&style=for-the-badge)--!>
+<!--![](https://komarev.com/ghpvc/?username=PlerionPlorion&color=blueviolet&style=for-the-badge)--!>
 
----
